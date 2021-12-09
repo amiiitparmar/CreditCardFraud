@@ -12,7 +12,7 @@ ecosystem of online transactions.
 
 ## Authors
 
-- [Sandeep Kashyap](https://www.github.com/sandy252)
+- [Amit Parmar](https://github.com/amiiitparmar)
 
   
 ## Proposed Solution
@@ -75,15 +75,9 @@ You can downlaod the dataset from [here](https://www.kaggle.com/mlg-ulb/creditca
 ![Screenshot (61)](https://user-images.githubusercontent.com/66490787/134642319-594fe3fc-6d11-4717-8834-96575f057d09.png)
 
 
-## Demo Video
-
-
-https://user-images.githubusercontent.com/66490787/134642400-f8b86a3c-a323-4a97-8d57-03b1dddf3311.mp4
-
-
 ## Deployment Link
 
-https://fraudtrasactiondetection.herokuapp.com
+https://credit-card-fraud21.herokuapp.com/
 
 
 ## Run Locally
@@ -91,7 +85,7 @@ https://fraudtrasactiondetection.herokuapp.com
 - clone the project
 
 ```bash
-  https://github.com/sandy252/FraudDetection.git
+  https://github.com/amiiitparmar/FraudDetection.git
 ```
 - traverse to project directory
 ```bash
@@ -107,15 +101,7 @@ https://fraudtrasactiondetection.herokuapp.com
 ```
 
 ## Support
-For support , email @ kashyapsandeep252@gmail.com
-
-
-## Documentation
-- [Detailed Project Report](https://drive.google.com/file/d/1W48MK9WrmGFU18HWjxumkSk5bCfwNJEG/view?usp=sharing)
-- [High Level Design](https://drive.google.com/file/d/17H0KBBAsrmbosJ60LPqapOzjYhSjCPEN/view?usp=sharing)
-- [Low Level Design](https://drive.google.com/file/d/1j9FM33Vo0J1EV3WtDPeMi4aQ1EnYg3G8/view?usp=sharing)
-- [Architecture](https://drive.google.com/file/d/1053vME8g140Lqb6BURCWi1OcBycDwKAM/view?usp=sharing)
-- [Wireframe](https://drive.google.com/file/d/1wt12CYrzoVMnklyMbMouazRLK35fWD9d/view?usp=sharing)
+For support , email @ amiitparmar21@gmail.com
 
 
 
